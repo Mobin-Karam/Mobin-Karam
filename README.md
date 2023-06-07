@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mobinkaram</h1>
-<h3 align="center">Full Stack Develoepr (Reac.js & Node.js & TialwindCSS & Sass)</h3>
+<h3 align="center">Full Stack Develoepr (Reac.js & Node.js & TialwindCSS & MySQL database)</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mobin-karam&label=Profile%20views&color=0e75b6&style=flat" alt="mobin-karam" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mobin-karam&show_icons=true&locale=en" alt="mobin-karam" />
