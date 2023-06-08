@@ -13,17 +13,15 @@
 
 - 👯 I’m looking to collaborate on **Reacjs & TailwindCSS & Nodejs Projects**
 
-- 👨‍💻 All of my projects are available at [https://mobinkaram.ir/portfolio](https://mobinkaram.ir/portfolio)
+👨‍💻 All of my projects are available at [Portfolio](https://mobinkaram.ir/portfolio)
 
-- 📝 I regularly write articles on [https://mobinkaram.ir](https://mobinkaram.ir)
+- 📝 I regularly write articles on :: [Article](https://mobinkaram.ir/article)
 
 - 💬 Ask me about **JavaScript Programming & about my self**
 
 - 📫 How to reach me **Mohammadmobinkaram@gmail.com**
 
-- 📄 Know about my Resume [https://mobinkaram.ir/download/mobinkaram-resume](https://mobinkaram.ir/download/mobinkaram-resume)
-
-- ⚡ Fun fact **I think nothing 😅**
+- 📄 MyResume in Persian Lang : [Resume](https://mobinkaram.ir/download/mobinkaram-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
