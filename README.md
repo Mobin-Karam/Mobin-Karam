@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Reacjs & TailwindCSS & Nodejs Projects**
 
-👨‍💻 All of my projects are available at [Portfolio](https://mobinkaram.ir/portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mobinkaram.ir/portfolio)
 
 - 📝 I regularly write articles on :: [Article](https://mobinkaram.ir/article)
 
