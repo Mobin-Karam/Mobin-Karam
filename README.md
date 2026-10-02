@@ -34,6 +34,7 @@
 ### 🌍 Focus
 
 ```text
+Cyber Security
 Programming Languages
 Compilers
 Full-Stack Systems
