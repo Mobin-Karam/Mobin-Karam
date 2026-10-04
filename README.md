@@ -51,13 +51,6 @@ Open Source
 ---
 
 <div align="center">
-
-### 💡 Find Me
-
-🌐 **[mobinkaram.ir](https://www.mobinkaram.ir)**  
-📧 **[mohammadmobinkaram@gmail.com](mailto:mohammadmobinkaram@gmail.com)**  
-⭐ **[Nominate me for GitHub Stars](https://stars.github.com/nominate/)**
-
 <br />
 
 <sub>Building things that are possible to build.</sub>
