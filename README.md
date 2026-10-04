@@ -24,7 +24,7 @@
 
 ### 🚀 About
 
-- **5+ years** working with systems, web, and compiler engineering
+- **5+ years** working with systems, web, and systems engineering
 - Building **languages, developer tools, and scalable software**
 - Creating and maintaining **open-source projects**
 - Creator of Nothing *(for now :>)*
